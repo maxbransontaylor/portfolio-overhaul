@@ -1,0 +1,12 @@
+.nav-link.active {
+    box-shadow: 2px -3px 5px 1px #D8D4D7 !important;
+}
+
+.nav.nav-tabs {
+    box-shadow: inset 0px -15px 13px -10px #D8D4D7 !important;
+}
+
+.tab-content>.active {
+    z-index: -1;
+    position: relative;
+}
